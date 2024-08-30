@@ -46,3 +46,4 @@ para el caso si es verdadero
 
 - Resultado
 
+![image](https://github.com/user-attachments/assets/a74214d2-1e64-454e-b96a-2bf43e12fbea)
